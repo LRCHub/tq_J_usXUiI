@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Late summer waves",
+  "base_artist": "7co",
+  "createdAt": "2025-12-01T08:33:50.073351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Late summer waves",
+      "artist": "7co",
+      "has_synced": true,
+      "path": "select/01_Late_summer_waves_7co.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Late summer waves",
+      "artist": "7co",
+      "has_synced": false,
+      "path": "select/pl_01_Late_summer_waves_7co.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Late summer waves",
+      "artist": "7co",
+      "has_synced": false,
+      "path": "select/pl_02_Late_summer_waves_7co.txt"
+    }
+  ]
+}
